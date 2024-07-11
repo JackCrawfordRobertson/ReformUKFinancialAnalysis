@@ -1,0 +1,126 @@
+{
+    "labels": [
+        "Adam Management Holdings Limited",
+        "Mr Mark Tucker",
+        "Mr Simon William Smith",
+        "Flowidea Ltd",
+        "Mr David George Plumer Lilley",
+        "Mr Michael Taylor",
+        "Electoral Commission.",
+        "The Spring Lunch",
+        "National Conservative Draws Society",
+        " Derek J Webb",
+        "ADAM MANAGEMENT HOLDINGS LTD",
+        "Britain Means Business Limited",
+        "Mr Gary Lubner",
+        "UNISON",
+        "Lord David Sainsbury of Turville"
+    ],
+    "datasets": [
+        {
+            "label": "Conservative and Unionist Party",
+            "backgroundColor": "blue",
+            "data": [
+                0.0,
+                0.0,
+                0.0,
+                100000.0,
+                0.0,
+                0.0,
+                0.0,
+                120000.0,
+                225000.0,
+                0.0,
+                0.0,
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ]
+        },
+        {
+            "label": "Reform UK",
+            "backgroundColor": "cyan",
+            "data": [
+                0.0,
+                0.0,
+                58000.0,
+                0.0,
+                100000.0,
+                0.0,
+                0.0,
+                0.0,
+                0.0,
+                0.0,
+                0.0,
+                500000.0,
+                0.0,
+                0.0,
+                0.0
+            ]
+        },
+        {
+            "label": "Labour Party",
+            "backgroundColor": "red",
+            "data": [
+                0.0,
+                0.0,
+                0.0,
+                0.0,
+                0.0,
+                0.0,
+                0.0,
+                0.0,
+                0.0,
+                0.0,
+                0.0,
+                0.0,
+                900000.0,
+                1490000.0,
+                2500000.0
+            ]
+        },
+        {
+            "label": "Liberal Democrats",
+            "backgroundColor": "yellow",
+            "data": [
+                0.0,
+                0.0,
+                0.0,
+                0.0,
+                0.0,
+                0.0,
+                108307.55,
+                0.0,
+                0.0,
+                250000.0,
+                479981.53,
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ]
+        },
+        {
+            "label": "Green Party",
+            "backgroundColor": "green",
+            "data": [
+                20000.0,
+                20000.0,
+                0.0,
+                0.0,
+                0.0,
+                100000.0,
+                0.0,
+                0.0,
+                0.0,
+                0.0,
+                0.0,
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ]
+        }
+    ]
+}

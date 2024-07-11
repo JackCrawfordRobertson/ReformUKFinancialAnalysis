@@ -1,1 +1,7 @@
-[{"RegulatedEntityName":"Conservative and Unionist Party","Value":1643816.6899999999},{"RegulatedEntityName":"Green Party","Value":160000.0},{"RegulatedEntityName":"Labour Party","Value":9723868.879999999},{"RegulatedEntityName":"Reform UK","Value":981000.0}]
+[
+    {"RegulatedEntityName": "Conservative and Unionist Party", "Value": 1643816.6899999999},
+    {"RegulatedEntityName": "Green Party", "Value": 160000.0},
+    {"RegulatedEntityName": "Labour Party", "Value": 9723868.879999999},
+    {"RegulatedEntityName": "Liberal Democrats", "Value": 1608232.8799999999},
+    {"RegulatedEntityName": "Reform UK", "Value": 981000.0}
+]

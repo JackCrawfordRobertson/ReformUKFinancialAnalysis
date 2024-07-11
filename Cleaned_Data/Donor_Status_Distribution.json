@@ -1,0 +1,42 @@
+[
+    {
+        "RegulatedEntityName": "Conservative and Unionist Party",
+        "Company": 371000.0,
+        "Individual": 876863.42,
+        "Public Fund": 22453.27,
+        "Trade Union": 0.0,
+        "Unincorporated Association": 373500.0
+    },
+    {
+        "RegulatedEntityName": "Green Party",
+        "Company": 20000.0,
+        "Individual": 140000.0,
+        "Public Fund": 0.0,
+        "Trade Union": 0.0,
+        "Unincorporated Association": 0.0
+    },
+    {
+        "RegulatedEntityName": "Labour Party",
+        "Company": 596231.94,
+        "Individual": 6261800.0,
+        "Public Fund": 652410.55,
+        "Trade Union": 2213426.39,
+        "Unincorporated Association": 0.0
+    },
+    {
+        "RegulatedEntityName": "Liberal Democrats",
+        "Company": 729980.53,
+        "Individual": 769944.8,
+        "Public Fund": 108307.55,
+        "Trade Union": 0.0,
+        "Unincorporated Association": 0.0
+    },
+    {
+        "RegulatedEntityName": "Reform UK",
+        "Company": 595000.0,
+        "Individual": 386000.0,
+        "Public Fund": 0.0,
+        "Trade Union": 0.0,
+        "Unincorporated Association": 0.0
+    }
+]
